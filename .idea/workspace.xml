@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b7e8be9-77ee-401a-b7cd-f52bd7c68121" name="Changes" comment="">
+    <list default="true" id="9b7e8be9-77ee-401a-b7cd-f52bd7c68121" name="Changes" comment="update home">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -54,8 +54,17 @@
       <updated>1730196567488</updated>
       <workItem from="1730196605507" duration="115000" />
       <workItem from="1730289940431" duration="574000" />
-      <workItem from="1730351436911" duration="1402000" />
+      <workItem from="1730351436911" duration="1686000" />
     </task>
+    <task id="LOCAL-00001" summary="update home">
+      <option name="closed" value="true" />
+      <created>1730352888152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730352888153</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,6 +72,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="update home" />
+    <option name="LAST_COMMIT_MESSAGE" value="update home" />
   </component>
 </project>

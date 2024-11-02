@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b7e8be9-77ee-401a-b7cd-f52bd7c68121" name="Changes" comment="update home">
-      <change beforePath="$PROJECT_DIR$/${l}.html" beforeDir="false" />
+    <list default="true" id="9b7e8be9-77ee-401a-b7cd-f52bd7c68121" name="Changes" comment="update all">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index-one-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-one-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index-two-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-two-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
@@ -19,8 +17,6 @@
       <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/service-details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t.params.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thuhang.nute@gmail.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +71,7 @@
       <workItem from="1730196605507" duration="115000" />
       <workItem from="1730289940431" duration="574000" />
       <workItem from="1730351436911" duration="3398000" />
-      <workItem from="1730540277697" duration="1892000" />
+      <workItem from="1730540277697" duration="2296000" />
     </task>
     <task id="LOCAL-00001" summary="update home">
       <option name="closed" value="true" />
@@ -125,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730354238557</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update all">
+      <option name="closed" value="true" />
+      <created>1730542211700</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730542211700</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Push" />
     <MESSAGE value="update home" />
-    <option name="LAST_COMMIT_MESSAGE" value="update home" />
+    <MESSAGE value="update all" />
+    <option name="LAST_COMMIT_MESSAGE" value="update all" />
   </component>
 </project>
